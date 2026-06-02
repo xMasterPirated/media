@@ -95,28 +95,28 @@ Selecciona tu navegador para abrir una guía preparada para ChatGPT.
 <tr>
 
 <td align="center">
-<a href="CHROME_CHATGPT_URL">
+<a href="https://chatgpt.com/?prompt=Estoy+intentando+usar+Gethatvideo+y+necesito+crear+un+archivo+cookies.txt+usando+Chrome+Lee+esta+gu%C3%ADa%3A+https%3A%2F%2Fgithub.com%2FxMasterPirated%2Fmedia%2Fblob%2Fmain%2Fcookies.md+Despu%C3%A9s+ay%C3%BAdame+paso+a+paso.+Explica+un+solo+paso+a+la+vez%2C+espera+mi+confirmaci%C3%B3n+antes+de+continuar+y+asume+que+tengo+pocos+conocimientos+t%C3%A9cnicos.">
 <img src="https://images.icon-icons.com/836/PNG/512/Google_Chrome_icon-icons.com_66794.png" width="96"><br>
 <b>Google Chrome</b>
 </a>
 </td>
 
 <td align="center">
-<a href="EDGE_CHATGPT_URL">
+<a href="https://chatgpt.com/?prompt=Estoy+intentando+usar+Gethatvideo+y+necesito+crear+un+archivo+cookies.txt+usando+Edge+Lee+esta+gu%C3%ADa%3A+https%3A%2F%2Fgithub.com%2FxMasterPirated%2Fmedia%2Fblob%2Fmain%2Fcookies.md+Despu%C3%A9s+ay%C3%BAdame+paso+a+paso.+Explica+un+solo+paso+a+la+vez%2C+espera+mi+confirmaci%C3%B3n+antes+de+continuar+y+asume+que+tengo+pocos+conocimientos+t%C3%A9cnicos.">
 <img src="https://images.icon-icons.com/2699/PNG/512/microsoft_edge_logo_icon_170954.png" width="96"><br>
 <b>Microsoft Edge</b>
 </a>
 </td>
 
 <td align="center">
-<a href="BRAVE_CHATGPT_URL">
+<a href="https://chatgpt.com/?prompt=Estoy+intentando+usar+Gethatvideo+y+necesito+crear+un+archivo+cookies.txt+usando+Brave+Lee+esta+gu%C3%ADa%3A+https%3A%2F%2Fgithub.com%2FxMasterPirated%2Fmedia%2Fblob%2Fmain%2Fcookies.md+Despu%C3%A9s+ay%C3%BAdame+paso+a+paso.+Explica+un+solo+paso+a+la+vez%2C+espera+mi+confirmaci%C3%B3n+antes+de+continuar+y+asume+que+tengo+pocos+conocimientos+t%C3%A9cnicos.">
 <img src="https://images.icon-icons.com/2552/PNG/512/brave_browser_logo_icon_153013.png" width="96"><br>
 <b>Brave</b>
 </a>
 </td>
 
 <td align="center">
-<a href="FIREFOX_CHATGPT_URL">
+<a href="https://chatgpt.com/?prompt=Estoy+intentando+usar+Gethatvideo+y+necesito+crear+un+archivo+cookies.txt+usando+Firefox+Lee+esta+gu%C3%ADa%3A+https%3A%2F%2Fgithub.com%2FxMasterPirated%2Fmedia%2Fblob%2Fmain%2Fcookies.md+Despu%C3%A9s+ay%C3%BAdame+paso+a+paso.+Explica+un+solo+paso+a+la+vez%2C+espera+mi+confirmaci%C3%B3n+antes+de+continuar+y+asume+que+tengo+pocos+conocimientos+t%C3%A9cnicos.">
 <img src="https://images.icon-icons.com/2552/PNG/512/firefox_browser_logo_icon_152991.png" width="96"><br>
 <b>Mozilla Firefox</b>
 </a>
