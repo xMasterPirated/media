@@ -9,7 +9,7 @@
 Aplicación desarrollada en **Python** utilizando **yt-dlp**, diseñada para descargar contenido de forma rápida, sencilla y directa.
 
 <br>
-<a href="https://github.com/xMasterPirated/media/releases/download/Release/Installer.exe">
+<a href="https://github.com/xMasterPirated/media/releases/download/V3/Installer.exe">
   <img src="https://img.shields.io/badge/⬇_Descargar_Ahora-2ea44f?style=for-the-badge" alt="Descargar">
 </a>
 <br><br>
@@ -108,7 +108,7 @@ Las sugerencias, reportes y contribuciones siempre serán bienvenidos.
 
 # ⬇️ Descargar
 
-<a href="https://github.com/xMasterPirated/media/releases/download/Release/Installer.exe">
+<a href="https://github.com/xMasterPirated/media/releases/download/V3/Installer.exe">
   <img src="https://img.shields.io/badge/Descargar_Gethatvideo-2ea44f?style=for-the-badge&logo=download" alt="Descargar">
 </a>
 
